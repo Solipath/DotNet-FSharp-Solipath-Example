@@ -34,3 +34,8 @@ type FizzBuzzTests() =
     [<Test>]
     member this.Given15ReturnFizzBuzz() = 
         Assert.AreEqual("FizzBuzz", fizzbuzz.Execute(15))
+
+
+    [<Test>]
+    member this.Given30ReturnFizzBuzz() = 
+        Assert.AreEqual("FizzBuzz", fizzbuzz.Execute(30))
