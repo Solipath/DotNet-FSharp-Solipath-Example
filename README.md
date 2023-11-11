@@ -1,5 +1,5 @@
-# Solipath .Net C# example project
-This is a quick showcase of using Solipath for a C# project
+# Solipath .Net F# example project
+This is a quick showcase of using Solipath for a F# project
 
 To run tests on powershell
 ```powershell
