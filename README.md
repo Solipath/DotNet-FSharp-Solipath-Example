@@ -19,7 +19,7 @@ If you navigate to solipath_vscode you can run to start open this project in vsc
 
 I suspect that the same would apply for any other kind of editor as long as you prefix the command that would normally start it with solipath
 
-If you have an existing C# and/or .Net project, all you should need to do is copy the solipath, solipath.bat (once it is there), and the solipath.json files over to your project.
+If you have an existing F# and/or .Net project, all you should need to do is copy the solipath, solipath.bat (once it is there), and the solipath.json files over to your project.
 
 
 ## Licensing
